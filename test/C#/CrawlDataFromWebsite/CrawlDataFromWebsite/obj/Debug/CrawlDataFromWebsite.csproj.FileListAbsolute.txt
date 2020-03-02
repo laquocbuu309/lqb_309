@@ -1,0 +1,14 @@
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite.csprojAssemblyReference.cache
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\MainWindow.g.cs
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\App.g.cs
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite_MarkupCompile.cache
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite_MarkupCompile.lref
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\bin\Debug\CrawlDataFromWebsite.exe.config
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\bin\Debug\CrawlDataFromWebsite.exe
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\bin\Debug\CrawlDataFromWebsite.pdb
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\MainWindow.baml
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite.g.resources
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite.Properties.Resources.resources
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite.csproj.GenerateResource.cache
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite.exe
+D:\Learning\C#\CrawlDataFromWebsite\CrawlDataFromWebsite\obj\Debug\CrawlDataFromWebsite.pdb

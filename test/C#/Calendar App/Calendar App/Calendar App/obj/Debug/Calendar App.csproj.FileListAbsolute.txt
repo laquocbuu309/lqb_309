@@ -1,0 +1,11 @@
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Calendar App.csprojAssemblyReference.cache
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Calendar_App.DailyPlan.resources
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Calendar_App.Form1.resources
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Calendar_App.Properties.Resources.resources
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Calendar_App.UCrtAJob.resources
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Calendar App.csproj.GenerateResource.cache
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\bin\Debug\Lập lịch.exe.config
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\bin\Debug\Lập lịch.exe
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\bin\Debug\Lập lịch.pdb
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Lập lịch.exe
+D:\Learning\C#\Calendar App\Calendar App\Calendar App\obj\Debug\Lập lịch.pdb
